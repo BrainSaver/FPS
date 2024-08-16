@@ -1,25 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\AI07\\Documents\\GitHub\\Elepuzzle\\FPS\\",
+  "WorkspaceRootPath": "C:\\Users\\AI07\\Documents\\GitHub\\FPS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|c:\\users\\ai07\\documents\\github\\elepuzzle\\fps\\assets\\02.scripts\\firectrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|c:\\users\\ai07\\documents\\github\\fps\\assets\\02.scripts\\moveagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\moveagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|c:\\users\\ai07\\documents\\github\\fps\\assets\\02.scripts\\firectrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\firectrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|C:\\Users\\AI07\\Documents\\GitHub\\Elepuzzle\\FPS\\assets\\02.scripts\\removebullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|C:\\Users\\AI07\\Documents\\GitHub\\FPS\\assets\\02.scripts\\removebullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\removebullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|C:\\Users\\AI07\\Documents\\GitHub\\Elepuzzle\\FPS\\assets\\02.scripts\\bulletctrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|C:\\Users\\AI07\\Documents\\GitHub\\FPS\\assets\\02.scripts\\bulletctrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\bulletctrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|C:\\Users\\AI07\\Documents\\GitHub\\Elepuzzle\\FPS\\assets\\02.scripts\\followcam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|C:\\Users\\AI07\\Documents\\GitHub\\FPS\\assets\\02.scripts\\followcam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\followcam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|C:\\Users\\AI07\\Documents\\GitHub\\Elepuzzle\\FPS\\assets\\02.scripts\\playerctrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|C:\\Users\\AI07\\Documents\\GitHub\\FPS\\assets\\02.scripts\\playerctrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6CC92EE2-C97E-2137-C111-F092707B90B5}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\playerctrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -35,10 +39,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MoveAgent.cs",
+              "DocumentMoniker": "C:\\Users\\AI07\\Documents\\GitHub\\FPS\\Assets\\02.Scripts\\MoveAgent.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\MoveAgent.cs",
+              "ToolTip": "C:\\Users\\AI07\\Documents\\GitHub\\FPS\\Assets\\02.Scripts\\MoveAgent.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\MoveAgent.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T06:12:08.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "FireCtrl.cs",
-              "DocumentMoniker": "C:\\Users\\AI07\\Documents\\GitHub\\Elepuzzle\\FPS\\Assets\\02.Scripts\\FireCtrl.cs",
+              "DocumentMoniker": "C:\\Users\\AI07\\Documents\\GitHub\\FPS\\Assets\\02.Scripts\\FireCtrl.cs",
               "RelativeDocumentMoniker": "Assets\\02.Scripts\\FireCtrl.cs",
-              "ToolTip": "C:\\Users\\AI07\\Documents\\GitHub\\Elepuzzle\\FPS\\Assets\\02.Scripts\\FireCtrl.cs",
+              "ToolTip": "C:\\Users\\AI07\\Documents\\GitHub\\FPS\\Assets\\02.Scripts\\FireCtrl.cs",
               "RelativeToolTip": "Assets\\02.Scripts\\FireCtrl.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAADwvxgAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -47,11 +64,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "RemoveBullet.cs",
-              "DocumentMoniker": "C:\\Users\\AI07\\Documents\\GitHub\\Elepuzzle\\FPS\\Assets\\02.Scripts\\RemoveBullet.cs",
+              "DocumentMoniker": "C:\\Users\\AI07\\Documents\\GitHub\\FPS\\Assets\\02.Scripts\\RemoveBullet.cs",
               "RelativeDocumentMoniker": "Assets\\02.Scripts\\RemoveBullet.cs",
-              "ToolTip": "C:\\Users\\AI07\\Documents\\GitHub\\Elepuzzle\\FPS\\Assets\\02.Scripts\\RemoveBullet.cs",
+              "ToolTip": "C:\\Users\\AI07\\Documents\\GitHub\\FPS\\Assets\\02.Scripts\\RemoveBullet.cs",
               "RelativeToolTip": "Assets\\02.Scripts\\RemoveBullet.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwoAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -59,11 +76,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "BulletCtrl.cs",
-              "DocumentMoniker": "C:\\Users\\AI07\\Documents\\GitHub\\Elepuzzle\\FPS\\Assets\\02.Scripts\\BulletCtrl.cs",
+              "DocumentMoniker": "C:\\Users\\AI07\\Documents\\GitHub\\FPS\\Assets\\02.Scripts\\BulletCtrl.cs",
               "RelativeDocumentMoniker": "Assets\\02.Scripts\\BulletCtrl.cs",
-              "ToolTip": "C:\\Users\\AI07\\Documents\\GitHub\\Elepuzzle\\FPS\\Assets\\02.Scripts\\BulletCtrl.cs",
+              "ToolTip": "C:\\Users\\AI07\\Documents\\GitHub\\FPS\\Assets\\02.Scripts\\BulletCtrl.cs",
               "RelativeToolTip": "Assets\\02.Scripts\\BulletCtrl.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwoAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -71,11 +88,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "FollowCam.cs",
-              "DocumentMoniker": "C:\\Users\\AI07\\Documents\\GitHub\\Elepuzzle\\FPS\\Assets\\02.Scripts\\FollowCam.cs",
+              "DocumentMoniker": "C:\\Users\\AI07\\Documents\\GitHub\\FPS\\Assets\\02.Scripts\\FollowCam.cs",
               "RelativeDocumentMoniker": "Assets\\02.Scripts\\FollowCam.cs",
-              "ToolTip": "C:\\Users\\AI07\\Documents\\GitHub\\Elepuzzle\\FPS\\Assets\\02.Scripts\\FollowCam.cs",
+              "ToolTip": "C:\\Users\\AI07\\Documents\\GitHub\\FPS\\Assets\\02.Scripts\\FollowCam.cs",
               "RelativeToolTip": "Assets\\02.Scripts\\FollowCam.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAADwvwYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -83,11 +100,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "PlayerCtrl.cs",
-              "DocumentMoniker": "C:\\Users\\AI07\\Documents\\GitHub\\Elepuzzle\\FPS\\Assets\\02.Scripts\\PlayerCtrl.cs",
+              "DocumentMoniker": "C:\\Users\\AI07\\Documents\\GitHub\\FPS\\Assets\\02.Scripts\\PlayerCtrl.cs",
               "RelativeDocumentMoniker": "Assets\\02.Scripts\\PlayerCtrl.cs",
-              "ToolTip": "C:\\Users\\AI07\\Documents\\GitHub\\Elepuzzle\\FPS\\Assets\\02.Scripts\\PlayerCtrl.cs",
+              "ToolTip": "C:\\Users\\AI07\\Documents\\GitHub\\FPS\\Assets\\02.Scripts\\PlayerCtrl.cs",
               "RelativeToolTip": "Assets\\02.Scripts\\PlayerCtrl.cs",
               "ViewState": "AQIAADMAAAAAAAAAAAAAAEkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
