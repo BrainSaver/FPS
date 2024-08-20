@@ -364,6 +364,7 @@
 -analyzer:"C:/Program Files/2022.3.41f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/02.Scripts/BarrelCtrl.cs"
 "Assets/02.Scripts/BulletCtrl.cs"
+"Assets/02.Scripts/EnemyAI.cs"
 "Assets/02.Scripts/FireCtrl.cs"
 "Assets/02.Scripts/FollowCam.cs"
 "Assets/02.Scripts/MoveAgent.cs"

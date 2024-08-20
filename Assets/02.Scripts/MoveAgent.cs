@@ -10,6 +10,55 @@ public class MoveAgent : MonoBehaviour
     public int nextIdx;
 
     NavMeshAgent agent;
+
+    readonly float patrolSpeed = 1.5f;
+    readonly float traceSpeed = 4.0f;
+
+    bool _patrolling;
+    public bool patrolling
+    {
+        //저장된 값을 가져오는건 get, 값을 저장하는건 set
+        get { return _patrolling; }
+        set
+        {
+            _patrolling = value;
+            if (_patrolling)
+            {
+                agent.speed = patrolSpeed;
+                MoveWayPoint();
+            }
+        }
+    }
+
+    Vector3 _traceTarget;
+    public Vector3 traceTarget
+    {
+        get { return _traceTarget; }
+        set
+        {
+            _traceTarget = value;
+            agent.speed = traceSpeed;
+            TraceTarget(_traceTarget);
+        }
+    }
+
+    void TraceTarget(Vector3 pos)
+    {
+        if (agent.isPathStale)
+            return;
+
+        agent.destination = pos;
+        agent.isStopped = false;
+        agent.speed = patrolSpeed;
+    }
+
+    public void Stop()
+    {
+        agent.isStopped = true;
+        agent.velocity = Vector3.zero;
+        _patrolling = false;
+    }
+
     // Start is called before the first frame update
     void Start()
     {
